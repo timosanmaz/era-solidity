@@ -30,3 +30,5 @@ will undergo further audits and bug bounty programs. We would love to hear our c
 about it!
 It's important to note that forking it now could potentially lead to missing important
 security updates, critical features, and performance improvements.
+
+## ZkSync is the endgame
